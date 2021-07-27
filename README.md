@@ -26,3 +26,5 @@ The planetary Camera used is ZWO ASI 290 MC.
 It also captured using PHD2 , which is a telescope guiding software that simplifies the process of tracing a guide star, letting you concentrate on other aspects of deep-sky imaging or spectroscopy. 
 
 
+Refer the pdf for more details : https://github.com/MuruganArumugam/Mars-Image-Processing/blob/main/2018115059_Processing%20of%20Planetary%20image%20data_MARS.pdf
+
