@@ -1,5 +1,8 @@
 # Mars-Image-Processing
 
+![2020-10-02-0513_4_g4_ap438_v2_pipp](https://user-images.githubusercontent.com/60518359/127142256-fa314a61-8ab0-41f7-8ab9-1e67c537831c.gif)
+
+
 In this project assignment, we are going to see how we are going to obtain good picture of Mars using appropriate image processing tool.
 
 In this project assignment , we are going to process the image by using registax6 , AutoStakkert ( version 3.1.4 ) and Adobe Photoshop.
