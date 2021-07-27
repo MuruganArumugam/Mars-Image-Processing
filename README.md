@@ -6,4 +6,23 @@ In this project assignment , we are going to process the image by using registax
 
 Registax6 and AutoStakkert are available for free in its official websites and Adobe Photoshop is not a free application , we can get it from its official website.
 
-![image](https://user-images.githubusercontent.com/60518359/127101263-bb562a47-723b-43cc-b658-3dac1241aa9f.png)
+**
+Source of planetary data**
+
+The source of data is a live video of Planet Mars captured on Sep30,2020.          ( Video size : 1.7 GB )
+
+The source planetary data is in RAW8 format which is captured using sharpcap. 
+
+Sharpcap is an easy-to-use and powerful astronomy camera capture tool. It can be used with dedicated astronomy cameras.
+
+Telescope Used:  Celestron 14” Edge HD( 3910mm focal length )
+
+It used Televue Powermate 2x which multiplies telescope focal length twice.
+
+It also used ZWO ADC which is a atmospheric distortion/dispersion corrector.
+
+The planetary Camera used is ZWO ASI 290 MC.
+
+It also captured using PHD2 , which is a telescope guiding software that simplifies the process of tracing a guide star, letting you concentrate on other aspects of deep-sky imaging or spectroscopy. 
+
+
